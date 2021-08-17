@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>200b076a-21f7-4354-ae12-85b7f743bfa3</url>
+	      <url>http://3.101.133.176:8081/repository/basha-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>200b076a-21f7-4354-ae12-85b7f743bfa3</url>
+	      <url>http://3.101.133.176:8081/repository/basha-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
